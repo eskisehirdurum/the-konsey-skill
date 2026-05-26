@@ -5,9 +5,6 @@
 # The Council — A Claude Skill
 
 Stop trusting the first answer you get. Run any real decision through a panel of AI advisors who think from genuinely different angles, tear each other's reasoning apart anonymously, and hand you back a verdict that names exactly where they agree, where they clash, *why* they clash, and what you should do Monday morning.
-
-Adapted from [Andrej Karpathy's LLM Council](https://x.com/karpathy/status/1962263486196867115) methodology — extended with a situational advisor pool, adversarial peer review, decision-evolution tracking, full bilingual (EN/TR) support, and an editorial-grade HTML briefing.
-
 ---
 
 ## The Problem
@@ -174,9 +171,6 @@ If you want *genuinely* independent advisors and have API access, you can route 
 ---
 
 ## Credit
-
-- **Methodology:** [Andrej Karpathy's LLM Council](https://x.com/karpathy/status/1962263486196867115)
-- **Original Claude Code adaptation:** [@olelehmann](https://x.com/olelehmann)
 - **This extended version:** [@eskisehirdurum](https://github.com/eskisehirdurum) — seven-lens situational pool, adversarial review, evolution tracking, bilingual EN/TR support, and the editorial briefing.
 
 ---
